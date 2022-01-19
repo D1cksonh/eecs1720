@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Tsung Extension 2",
+  "version": "2.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>" 
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "defult_icon": "pepega.png"
+  }
+}
