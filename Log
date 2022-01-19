@@ -6,7 +6,7 @@ Jan 13th 2022
 - Change some of the code from the professor so the circle has a different fill and stroke color
 
 Jan 19th 2022
-- I watched some tutorial by the coding trian to learn how to make a browser extention (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)
+- I watched some tutorial by the coding trian to learn how to make a browser extention
 - I somewhat learned how to use .json and .js to make a broswer extention through the tutorials
 - I used VScode to write most of my code and learned how to use it
 - I tried to replicate 'the coding train' google chrome extention examples with some success to get a better understanding on how to make a chrome extention--> i have linked the examples i made in the github folder label by the date of this log
