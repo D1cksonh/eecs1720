@@ -14,6 +14,6 @@
     "scripts": ["background.js"]
   },
   "browser_action": {
-    "defult_icon": "pepega.png"
+    "defult_icon": "pencil.png"
   }
 }
