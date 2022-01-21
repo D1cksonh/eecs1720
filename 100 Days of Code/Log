@@ -11,3 +11,13 @@ Jan 19th 2022
 - I used VScode to write most of my code and learned how to use it
 - I tried to replicate 'the coding train' google chrome extention examples with some success to get a better understanding on how to make a chrome extention--> i have linked the examples i made in the github folder label by the date of this log
 - I spend most of my day trying to understand how to make a chrome extention but it was somewhat complicated
+
+Jan 20th 2022
+- I have made a popup extention on google chrome 
+- I have spend a part of my day trying to get a popup extention on chrome to work
+- I have followed "the coding train" tutorials in trying to make a popup extention on google chrome
+- I tried using whatever begginer HTML knowledge i have and tried to make a website inside of the popup page
+- The HTML file contains a a <h1>, <h2>, <p>, bolded text and some images to just learn to use HTML more
+- I was trying today to try to get a p5.js sketch file into the popup window but it didn't work as i thought it would, mainly because i'm unsure how to link a javascript file to the popup window
+- Tomorrow im going to try to get a simple javascript progam into the popup window by creating a website in the extention tab, perhaps that may work 
+- What im also going to do tomorrow is try to learn some javascript coding on p5.js to get myself familiar on how to use p5.js
