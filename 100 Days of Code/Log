@@ -27,3 +27,6 @@ Jan 22nd 2022
 - The p5.js code is running by importing a p5.js libary called "p5.vscode", this allowed me to type p5.js code into VScode
 - I then connected a HTML file to the sketch.js file through the HTML and therefore i can run the p5.js code
 
+- I created also a program that changes all images on a site to images that are inside the folder
+- I linked random images in the folder and made a extention that makes all of the images on a page change into the images into the folder
+
