@@ -26,7 +26,11 @@ Jan 22nd 2022
 - I created a popup window extention tab that allows you to run p5.js code
 - The p5.js code is running by importing a p5.js libary called "p5.vscode", this allowed me to type p5.js code into VScode
 - I then connected a HTML file to the sketch.js file through the HTML and therefore i can run the p5.js code
-
 - I created also a program that changes all images on a site to images that are inside the folder
 - I linked random images in the folder and made a extention that makes all of the images on a page change into the images into the folder
 
+Jan 25th 2022
+- I tried to use p5.js to code a simple game into p5.js
+- The game is simpy you (as a ball) has to move through the openings between the red rectanges
+- The game isnt quite working as intended (as there is no hitbox to when the player hits a wall), i manage to get some of the concept working as making stuff move
+- I just learn how to use p5.js a little as it may be useful to know a little when doing some projects, also i wanted to experiment using p5.js 
