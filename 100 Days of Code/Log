@@ -36,3 +36,7 @@ Jan 25th 2022
 - I just learn how to use p5.js a little as it may be useful to know a little when doing some projects, also i wanted to experiment using p5.js 
 - I did also tried to import this code into an google extention using the p5.js libary on VScode, the code ran well and i was able to use the demo game i made and play it in my extention
 - What i also did was made anothere extension. The 6th extension is when you open a new tab, the new tab will become the html doccument linked to the .json file
+
+Jan 26th 2022
+- I have made an exntension page that it opens links in the user's browser, I have putted the links on a HTML page and when the extension is open, the user can click onto the link and it will create a new tab that is the link on the HTML
+- I have experiemented with the "target=..." to see which one works and have found that writing _blank and nothing works in the target
