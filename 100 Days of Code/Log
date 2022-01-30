@@ -40,3 +40,7 @@ Jan 25th 2022
 Jan 26th 2022
 - I have made an exntension page that it opens links in the user's browser, I have putted the links on a HTML page and when the extension is open, the user can click onto the link and it will create a new tab that is the link on the HTML
 - I have experiemented with the "target=..." to see which one works and have found that writing _blank and nothing works in the target
+
+Jan 30th 2022
+- I worked on the first lab project in making the google extension 
+- I will try to use most of the information i learned from the "100 days of code" to make an extension
